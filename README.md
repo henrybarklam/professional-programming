@@ -300,7 +300,7 @@ There are some free books available, including:
 - [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
 - [50 Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
 - [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
-- [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) ✅
 
 ### Courses
 
