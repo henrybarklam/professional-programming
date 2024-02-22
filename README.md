@@ -1266,6 +1266,7 @@ Richard Feynman's Learning Strategy:
 - [Memory Allocation](https://samwho.dev/memory-allocation/) (an interactive article)
 - [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/), Julia Evans (about floating point)
 - [Putting the "You" in CPU](https://cpu.land/the-basics)
+- [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 
 ### Machine learning/AI
 
