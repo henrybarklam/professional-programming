@@ -251,6 +251,7 @@ There are some free books available, including:
 ### Other lists
 
 - [liuchong/awesome-roadmaps: A curated list of roadmaps.](https://github.com/liuchong/awesome-roadmaps)
+- [mtdvio/every-programmer-should-know: Another list](https://github.com/mtdvio/every-programmer-should-know)
 
 ### Books
 
