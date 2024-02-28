@@ -1112,7 +1112,7 @@ Résumé:
   - We look for people who get things done
   - We look for unique perspectives
   - We care about impact, not meaningless metrics
-- [Why you shouldn’t list certifications on LinkedIn](https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn)
+- [Why you shouldn’t list certifications on LinkedIn](https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn)✅
 
 See also the exercises section in this document.
 
