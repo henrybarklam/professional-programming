@@ -782,6 +782,8 @@ Articles:
   - Two general problem areas are impacted by the Robustness Principle: orderly interoperability and security.
 - [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html#id2877610), Eric S Raymond
 - [Eight Habits of Expert Software Designers: An Illustrated Guide](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
+- [Strategy Letter I: Ben and Jerry's vs Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
+- [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
 > You can use an eraser on the drafting table or a sledge hammer on the construction site. (Frank Lloyd Wright)
 
