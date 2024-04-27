@@ -609,7 +609,7 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
   - We will not accept the stupid old lie about cleaning things up later.
   - We will not believe the claim that quick means dirty.
   - We will not allow anyone to force us to behave unprofessionally.
-- [Tips on naming boolean variables](https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig)✅
+- [Tips on naming boolean variables](https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig)✅ READ
   - There is a convention to prefix boolean variables and function names with "is" or "has".
   - Try to always use is, even for plurals (`isEachUserLoggedIn` is better than `areUsersLoggedIn` or `isUsersLoggedIn`)
   - Avoid custom prefixes (`isPaidFor` is better than `wasPaidFor`)
